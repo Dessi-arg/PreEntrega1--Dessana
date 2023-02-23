@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: beige;
+}
+h1{
+    font-family: Impact,'Narrow', sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+p{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 5px;
+}
